@@ -12,6 +12,8 @@ For the notation I use the following method:
 
 - Parenthesis can be used to indicate that 2 or more notes must be played at the same time. for example to play the note 3, then 2 and 1 together, then 1, that is notated by `3 (1 2) 1`
 
+- Comments can be placed with `# the comment here`
+
 - Square brackets can be used to group a sequence of notes together: `[3 2 1]`
 
 - You can repeat a group 4 times by placing x4 after the group `[3 2 1]x4`
