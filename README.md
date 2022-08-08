@@ -12,6 +12,18 @@ For the notation I use the following method:
 
 - Parenthesis can be used to indicate that 2 or more notes must be played at the same time. for example to play the note 3, then 2 and 1 together, then 1, that is notated by `3 (1 2) 1`
 
+- Square brackets can be used to group a sequence of notes together: `[3 2 1]`
+
+- You can repeat a group 4 times by placing x4 after the group `[3 2 1]x4`
+
+- You can name a group by writing the name and then equals:
+```
+sequence_up = [1 2 3 4 5 6 7]
+sequence_down = [7 6 5 4 3 2 1]
+
+sequence_up sequence_down sequence_up sequence_down
+```
+
 - There is no way yet to notate the note lengths
 
 - All songs are designed for the 17 key kalimba tuned to C Major
